@@ -1,0 +1,6 @@
+L:\AntiFFB\AntiFFB\AntiFFB\bin\Debug\AntiFFB.exe
+L:\AntiFFB\AntiFFB\AntiFFB\bin\Debug\AntiFFB.pdb
+L:\AntiFFB\AntiFFB\AntiFFB\obj\Debug\AntiFFB.csprojAssemblyReference.cache
+L:\AntiFFB\AntiFFB\AntiFFB\obj\Debug\AntiFFB.csproj.CoreCompileInputs.cache
+L:\AntiFFB\AntiFFB\AntiFFB\obj\Debug\AntiFFB.exe
+L:\AntiFFB\AntiFFB\AntiFFB\obj\Debug\AntiFFB.pdb

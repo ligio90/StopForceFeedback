@@ -1,0 +1,6 @@
+L:\SelfSexFFB\SelfSexFFB\AntiFFB\bin\Release\AntiFFB.exe
+L:\SelfSexFFB\SelfSexFFB\AntiFFB\bin\Release\AntiFFB.pdb
+L:\SelfSexFFB\SelfSexFFB\AntiFFB\obj\Release\AntiFFB.csprojAssemblyReference.cache
+L:\SelfSexFFB\SelfSexFFB\AntiFFB\obj\Release\AntiFFB.csproj.CoreCompileInputs.cache
+L:\SelfSexFFB\SelfSexFFB\AntiFFB\obj\Release\AntiFFB.exe
+L:\SelfSexFFB\SelfSexFFB\AntiFFB\obj\Release\AntiFFB.pdb
